@@ -10,4 +10,4 @@ To bolster security further, all DNS traffic is routed through a DNS sinkhole (P
 This project has not only been enjoyable but also immensely educational. Overcoming numerous challenges along the way, it has significantly expanded my skills and understanding of networking. Future plans include incorporating Snort as a network intrusion detection and prevention system, further enhancing the security posture of my home network. 
 
 ## Diagram:
-<img src="https://i.imgur.com/5GzpmOe.png" height="80%" width="80%" alt="Home Network Diagram"/>
+<img src="https://i.imgur.com/uiaY9uY.png" height="80%" width="80%" alt="Home Network Diagram"/>
